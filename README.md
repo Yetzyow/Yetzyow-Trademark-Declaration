@@ -26,14 +26,7 @@ The following classes are claimed for protection of the **Yetzyow** mark:
 - **Class 35**: Promotion, marketing, and online retail services related to educational and cultural gaming.  
 - **Class 38**: Broadcasting, streaming, online communication services for academic and cultural content.  
 - **Class 41**: Educational services, cultural activities, entertainment services, academic lectures, workshops, video game exhibitions, and eSports events.  
-- **Class 42**: Software development, game design, technological services, research and experimental modeling in ludology.  
-
----
-
-## Timestamp  
-Declared on GitHub for public record:  
-**Date:** ⬜ (Fill in actual date of commit/push)  
-**Location:** England, United Kingdom  
+- **Class 42**: Software development, game design, technological services, research and experimental modeling in ludology.
 
 ---
 
