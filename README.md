@@ -6,34 +6,35 @@
 ---
 
 ## Declaration  
-This document serves as a timestamp declaration of the use and intended trademark protection of the name **Yetzyow** in connection with the following professional and creative roles:
+This document serves as a timestamp declaration of the use and intended trademark protection of the name **Yetzyow** in connection with academic and creative activities, specifically:
 
-1. **Ludologist**  
-   - Academic and practical exploration of games, play theory, and interactive systems.  
-
-2. **Video Game Developer**  
-   - Design, programming, and publishing of interactive entertainment software.  
-
-3. **eSports & Non-Competitive Gamer**  
-   - Participation, commentary, and representation in electronic sports and casual gaming communities.  
-
-4. **Content Creator, Musician & Filmer**  
-   - Creative works including acting, directing, producing, and scriptwriting.  
-   - Musical composition, performance, and distribution.  
-   - All activities carried out under the persona and character **Yetzyow**.  
+- **Academic Ludologist**  
+  - Theorizing about video game mechanics and narratives, both in general and in particular.  
+  - Developing experimental models to study and demonstrate interactive systems.  
+  - Creating video games designed to be played within English institutions (universities, schools, research centers) by professors, researchers, and students.  
+  - Using video games for educational and cultural purposes, fostering knowledge, creativity, and critical engagement with interactive media.  
 
 ---
 
 ## Trademark Classes (Nice Classification – UKIPO)  
 The following classes are claimed for protection of the **Yetzyow** mark:
 
-- **Class 9**: Computer software, video games, downloadable digital content.  
-- **Class 16**: Printed publications, books, magazines, posters, and other printed matter.  
-- **Class 28**: Games, toys, gaming peripherals.  
-- **Class 35**: Promotion, marketing, and online retail services.  
-- **Class 38**: Broadcasting, streaming, online communication services.  
-- **Class 41**: Entertainment services, music production, film production, acting, directing, scriptwriting, eSports events.  
-- **Class 42**: Software development, game design, technological services.  
+- **Class 9**: Computer software, video games, downloadable digital content, educational software.  
+- **Class 16**: Printed publications, books, academic papers, magazines, posters, and other printed matter.  
+- **Class 25**: Clothing, apparel, merchandise.  
+- **Class 28**: Games, toys, educational gaming peripherals.  
+- **Class 35**: Promotion, marketing, and online retail services related to educational and cultural gaming.  
+- **Class 38**: Broadcasting, streaming, online communication services for academic and cultural content.  
+- **Class 41**: Educational services, cultural activities, entertainment services, academic lectures, workshops, video game exhibitions, and eSports events.  
+- **Class 42**: Software development, game design, technological services, research and experimental modeling in ludology.  
+
+---
+
+## Timestamp  
+Declared on GitHub for public record:  
+**Date:** ⬜ (Fill in actual date of commit/push)  
+**Location:** England, United Kingdom  
+
 ---
 
 © Yetzyow. All rights reserved.  
