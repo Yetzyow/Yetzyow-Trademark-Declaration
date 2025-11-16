@@ -1,34 +1,51 @@
-# Trademark Timestamp Declaration  
-**Entity/Character:** Yetzyow  
-**Jurisdiction:** England (United Kingdom)  
-**Platform:** GitHub  
+# Trademark Declaration for Yetzyow
+
+**Timestamp:** November 16, 2025  
+**Jurisdictions:** United Kingdom, United States of America, Mexico  
+**Legal Owner:** Yetzirah Mihael Litzow Díaz  
+**Mark Name:** Yetzyow  
 
 ---
 
-## Declaration  
-This document serves as a timestamp declaration of the use and intended trademark protection of the name **Yetzyow** in connection with academic and creative activities, specifically:
+## Declaration
 
-- **Academic Ludologist**  
-  - Theorizing about video game mechanics and narratives, both in general and in particular.  
-  - Developing experimental models to study and demonstrate interactive systems.  
-  - Creating video games designed to be played within English institutions (universities, schools, research centers) by professors, researchers, and students.  
-  - Using video games for educational and cultural purposes, fostering knowledge, creativity, and critical engagement with interactive media.  
+This document serves as a formal declaration of trademark intent and usage for the brand **Yetzyow**, owned by **Yetzirah Mihael Litzow Díaz**, across the territories of the **United Kingdom**, the **United States of America**, and **Mexico**.  
 
----
+The trademark covers the following areas of activity:
 
-## Trademark Classes (Nice Classification – UKIPO)  
-The following classes are claimed for protection of the **Yetzyow** mark:
+1. **Academic Ludology**  
+   - Research, academic publications, printed publications, and educational initiatives in the field of ludology (game studies).  
 
-- **Class 9**: Computer software, video games, downloadable digital content, educational software.  
-- **Class 16**: Printed publications, books, academic papers, magazines, posters, and other printed matter.  
-- **Class 25**: Clothing, apparel, merchandise.  
-- **Class 28**: Games, toys, educational gaming peripherals.  
-- **Class 35**: Promotion, marketing, and online retail services related to educational and cultural gaming.  
-- **Class 38**: Broadcasting, streaming, online communication services for academic and cultural content.  
-- **Class 41**: Educational services, cultural activities, entertainment services, academic lectures, workshops, video game exhibitions, and eSports events.  
-- **Class 42**: Software development, game design, technological services, research and experimental modeling in ludology.
+2. **Video Game Development and Technological Innovation in VR/AI/CG/IT**  
+   - Design, programming, and commercialization of video games.  
+   - Innovation in Virtual Reality (VR), Artificial Intelligence (AI), Computer Graphics (CG), and Information Technology (IT).  
+
+3. **eSports and Non-Competitive Gaming**  
+   - Organization, promotion, and participation in electronic sports (eSports).  
+   - Community engagement in casual and non-competitive gaming environments.  
+
+4. **Gaming Content Creation and Community Participation**  
+   - Production and distribution of gaming-related content (video, audio, streaming, written, printed publications).  
+   - Active involvement in gaming communities, forums, and events.  
 
 ---
 
-© Yetzyow. All rights reserved.  
-This declaration is made for the purpose of establishing timestamped evidence of trademark use and intent.
+## Trademark Classes
+
+The trademark **Yetzyow** is declared under the following international trademark classes (Nice Classification):
+
+- **Class 9**: Software, video games, VR/AR applications, AI-based systems, computer graphics tools.  
+- **Class 16**: Printed publications, books, magazines, journals, and other printed matter related to gaming, ludology, and technology.  
+- **Class 41**: Education, training, entertainment services, eSports events, gaming content creation.  
+- **Class 42**: Scientific and technological services, software development, IT innovation, VR/AI/CG research.  
+- **Class 35**: Business management, promotion, and organization of gaming events and community activities.  
+
+---
+
+## Statement of Rights
+
+The owner, **Yetzirah Mihael Litzow Díaz**, asserts exclusive rights to the use of the trademark **Yetzyow** in the specified jurisdictions and under the listed classes. Unauthorized use, reproduction, or misrepresentation of the mark in the covered fields is strictly prohibited.
+
+---
+
+© 2025 Yetzirah Mihael Litzow Díaz. All rights reserved.
