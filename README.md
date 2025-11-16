@@ -1,53 +1,49 @@
 # Trademark Timestamp Declaration  
-**Jurisdiction:** United Kingdom (England and Wales)  
-**Authority:** UKIPO (UK Intellectual Property Office)  
-**Date:** 16 November 2025  
-**Declarant:** Yetzirah Mihael Litzow Díaz  
-**Trademark Name:** Yetzyow  
+**Jurisdiction:** England (United Kingdom)  
+**Platform:** GitHub  
+**Declarant:** Yetzyow (Legal: Yetzirah Mihael Litzow Díaz)  
 
 ---
 
-## Declaration of Trademark Use
+## Declaration of Lifelong Commitment  
 
-I, **Yetzirah Mihael Litzow Díaz**, hereby declare that the name **Yetzyow** is my chosen and identifying trademark.  
-This declaration is timestamped and published for record purposes on GitHub and in printed publications, establishing priority of use and authorship under UK law through the UKIPO framework.
-
----
-
-## Trademark Classes and Scope of Use
-
-### 1. Ludologist  
-- Creation of experimental and educational video games.  
-- Games designed for use in institutions by professors, students, and researchers.  
-- Theoretical and experimental research in mechanics, narratives, and broader areas of video games as both general and particular concepts.  
-
-### 2. Video Game Developer in the United Kingdom  
-- Development and publication of video games on platforms based in the UK.  
-- Distribution and participation in the UK video game industry ecosystem.  
-
-### 3. eSports and Gaming Activities in the United Kingdom  
-- Participation in eSports rankings within the UK.  
-- Attendance at gaming events, both competitive and non-competitive (including RPGs and MMOs).  
-- Networking and community engagement within the UK gaming sector.  
+I, **Yetzyow**, hereby declare and timestamp my **lifelong trademark commitment** beginning in my 20s and extending until the end of my days. This declaration is made in England for public record and recognition, and is anchored in my identity as a **Ludologist Academic — both theoretical and experimental**.  
 
 ---
 
-## Trademark Coverage (UKIPO Classes)
+## Scope of Work  
 
-This declaration covers the following trademark classes under the UKIPO system:
+- **General and Particular Analysis of Videogames**  
+  - Employing **physics-mathematics** and **informatics-archetypical** resources as a toolbox.  
+  - Advancing the theoretical and experimental study of games as cultural, educational, and scientific artifacts.  
 
-- **Class 9**: Computer software, video games, downloadable digital content.  
-- **Class 16**: Printed publications, manuals, guides, academic papers.  
-- **Class 28**: Games, toys, gaming equipment, eSports peripherals.  
-- **Class 41**: Education, training, entertainment services, eSports competitions, gaming events.  
-- **Class 42**: Software development, research, design of video games and interactive media.  
+- **Creation of Educational Videogames**  
+  - Designed for use in **institutions** by professors, students, and researchers.  
+  - Integrated into **academic classes and research programs**.  
+  - Serving as both **pedagogical tools** and **experimental frameworks** for ludological inquiry.  
 
 ---
 
-## Signature
+## Trademarking Commitment  
 
-Signed under the legal name:  
-**Yetzirah Mihael Litzow Díaz**  
+- All coined terms, concepts, and creations under the **Yetzyow identity** are hereby declared as **trademarked intellectual property**.  
+- Trademarking processes and classes necessary for institutional and legal recognition will be pursued and completed.  
+- This declaration serves as a **timestamped public record** of intent and continuity.  
 
-Representing the trademark:  
+---
+
+## Lifelong Vision  
+
+This trademark declaration is not limited to a single project or period. It represents:  
+
+- A **lifelong academic and creative trajectory** in ludology.  
+- The **fusion of science, archetypes, and game design** into educational and cultural innovation.  
+- A **commitment to legacy**, ensuring that my work remains recognized, protected, and accessible for future generations.  
+
+---
+
+**Signed and Declared:**  
 **Yetzyow**  
+*Ludologist Academic — Theoretical and Experimental*  
+*England, United Kingdom*  
+*Timestamp: November 2025*  
