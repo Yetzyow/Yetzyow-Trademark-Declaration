@@ -32,14 +32,15 @@ This declaration is timestamped and published for record purposes on GitHub and 
 
 ---
 
-## Trademark Coverage
+## Trademark Coverage (UKIPO Classes)
 
-This declaration covers all relevant trademark classes, including but not limited to:  
+This declaration covers the following trademark classes under the UKIPO system:
 
-- **Digital goods and services** (video games, software, online platforms).  
-- **Printed publications** (academic papers, manuals, guides, and promotional materials).  
-- **Entertainment services** (eSports, gaming events, networking activities).  
-- **Educational services** (research, teaching, and institutional use of video games).  
+- **Class 9**: Computer software, video games, downloadable digital content.  
+- **Class 16**: Printed publications, manuals, guides, academic papers.  
+- **Class 28**: Games, toys, gaming equipment, eSports peripherals.  
+- **Class 41**: Education, training, entertainment services, eSports competitions, gaming events.  
+- **Class 42**: Software development, research, design of video games and interactive media.  
 
 ---
 
