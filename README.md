@@ -1,44 +1,52 @@
-# Trademark Declaration for Yetzyow  
-**Timestamp:** November 17, 2025  
-**Jurisdiction:** United Kingdom  
-**Legal Owner:** Yetzirah Mihael Litzow Díaz  
-**Mark Name:** Yetzyow  
+# Timestamp Trademark Declaration (United Kingdom)
+
+**Identity:**  
+- Public/Creative Identity: **Yetzyow**  
+- Legal Name: **Yetzirah Mihael Litzow Díaz**  
+
+**Declaration Date (Timestamp):**  
+18 November 2025, 14:35 (GMT)
 
 ---
 
-## Declaration  
-This document serves as a formal declaration of trademark intent and usage for the brand **Yetzyow**, owned by **Yetzirah Mihael Litzow Díaz**, within the territory of the **United Kingdom**.
+## Declaration of Lifelong Commitment
+
+I, **Yetzirah Mihael Litzow Díaz**, hereby declare and timestamp my lifelong commitment to the identity **Yetzyow** within the United Kingdom.  
+
+I commit to a life as:  
+- **Video Game Designer** (Designer of Video Games)  
+- **Gamer**, actively participating in:  
+  - Gaming events and tournaments  
+  - Streaming and broadcasting gameplay  
+  - Creating digital and interactive content  
+  - Attending and engaging in cybercafés and gaming communities under the name **Yetzyow**  
+- **Author of Treatises on Video Games**, publishing theoretical and creative works under the name **Yetzyow**
+
+This declaration is made as a formal and timestamped statement of intent to protect and embody the **Yetzyow** identity in creative, professional, academic, and cultural domains.
 
 ---
 
-## Areas of Activity  
+## Trademark Classes (Nice Classification)
 
-### 🎓 Academic Ludology  
-- Research, academic publications, printed publications, and educational initiatives in the field of ludology (game studies).  
+To ensure comprehensive protection of the **Yetzyow** identity, the following classes are hereby declared:
 
-### 🎮 Video Game Development and Technological Innovation in VR/AI/CG/IT  
-- Design, programming, and commercialization of video games.  
-- Innovation in Virtual Reality (VR), Artificial Intelligence (AI), Computer Graphics (CG), and Information Technology (IT).  
-
-### 🏆 eSports and Non-Competitive Gaming  
-- Organization, promotion, and participation in electronic sports (eSports).  
-- Community engagement in casual and non-competitive gaming environments.  
-
-### 📺 Gaming Content Creation and Community Participation  
-- Production and distribution of gaming-related content (video, audio, streaming, written, printed publications).  
-- Active involvement in gaming communities, forums, and events.  
+- **Class 9**: Software, video games, downloadable digital content, VR/AR applications  
+- **Class 16**: Printed publications, books, magazines, academic treatises, manuals, guides  
+- **Class 25**: Clothing, footwear, headgear (gaming apparel, branded merchandise)  
+- **Class 28**: Games, toys, esports equipment, peripherals  
+- **Class 35**: Business management, brand promotion, marketing, sponsorship services  
+- **Class 38**: Streaming, broadcasting, telecommunications, online platforms  
+- **Class 41**: Education, entertainment, esports tournaments, content creation, training services  
+- **Class 42**: Software development, game design, IT services, immersive technologies  
+- **Class 43**: Hospitality, cafés, cybercafés, gaming lounges  
+- **Class 45**: Legal protection of identity, trademarking, licensing
 
 ---
 
-## Trademark Classes (Nice Classification)  
+## Closing Statement
 
-- **Class 9:** Software, video games, VR/AR applications, AI-based systems, computer graphics tools.  
-- **Class 16:** Printed publications, books, magazines, journals, and other printed matter related to gaming, ludology, and technology.  
-- **Class 41:** Education, training, entertainment services, eSports events, gaming content creation.  
-- **Class 42:** Scientific and technological services, software development, IT innovation, VR/AI/CG research.  
-- **Class 35:** Business management, promotion, and organization of gaming events and community activities.  
+This timestamp declaration is made to establish **Yetzyow** as a protected identity and lifelong commitment in the United Kingdom, across creative, academic, professional, and cultural domains.
 
----
-
-## Statement of Rights  
-The owner, **Yetzirah Mihael Litzow Díaz**, asserts exclusive rights to the use of the trademark **Yetzyow** in the **United Kingdom** under the listed classes. Unauthorized use, reproduction, or misrepresentation of the mark in the covered fields is strictly prohibited.  
+**Signed:**  
+Yetzirah Mihael Litzow Díaz  
+(aka **Yetzyow**)
