@@ -1,55 +1,60 @@
-# Timestamp Trademark Declaration  
-**Jurisdiction:** United Kingdom (England)  
-**Platform:** GitHub  
-**Date of Declaration:** 18 November 2025  
-**Declarant:** Yetzirah Mihael Litzow Díaz (public identity: Yetzyow)  
-**Commitment:** Lifelong dedication as Ludologist / Institutional Game Designer, anchored in Durham, UK.
+# Trademark Declaration: Yetzyow  
+**Jurisdiction:** United Kingdom  
+**Legal Name:** Yetzirah Mihael Litzow Díaz  
+**Brand Identity:** Yetzyow  
+**Timestamp:** 2025-11-19T09:17:00 CST  
 
 ---
 
-## Trademark Commitment
+## Declaration of Lifelong Commitment
 
-I, **Yetzirah Mihael Litzow Díaz**, publicly declare under the identity **Yetzyow** my lifelong commitment to the academic, creative, and institutional development of **Ludology** and **Institutional Game Design**.  
-This declaration is timestamped and published on GitHub to establish priority and continuity of my brand identity in the United Kingdom.
-
----
-
-## Trademark Classes (Nice Classification)
-
-The following classes are claimed to protect the coined brand identity **Yetzyow**:
-
-- **Class 9**: Computer software, video games, interactive entertainment systems, VR/AR applications.  
-- **Class 16**: Printed publications, books, academic journals, manuals, and instructional materials.  
-- **Class 25**: Clothing, apparel, and branded merchandise.  
-- **Class 28**: Games, toys, esports equipment, and ludological instruments.  
-- **Class 41**: Education, training, academic programs, workshops, and institutional game design services.  
-- **Class 42**: Scientific and technological services, research in ludology, software development, and institutional design consultancy.
+I, **Yetzirah Mihael Litzow Díaz**, hereby declare and timestamp my lifelong dedication to the creative, academic, and professional pursuit of videogames under the trademark identity **Yetzyow**. This declaration is made for the purpose of establishing continuity, recognition, and protection of the Yetzyow brand in the United Kingdom and internationally.
 
 ---
 
-## Printed Publications Clause
+## Trademark Classes & Coverage
 
-This declaration explicitly includes **printed publications** (Class 16) to ensure recognition of authored works, academic contributions, and institutional documentation under the **Yetzyow** identity.
-
----
-
-## Lifelong Commitment
-
-This trademark declaration is not limited in duration. It represents a **lifelong commitment** to the preservation, expansion, and institutional recognition of **Yetzyow** as a brand identity in academic, creative, and professional domains.
+- **Class 9**: Videogame software, digital applications, and interactive media.  
+- **Class 16**: Printed publications, academic works, and ludological research authored under the name **Yetzyow**.  
+- **Class 41**: Education, training, and entertainment services in videogames, including streaming, esports, and content creation.  
+- **Class 42**: Scientific and technological services in game development, informatics, and immersive technologies.  
 
 ---
 
-## Timestamp & Publication
+## Lifelong Roles & Commitments
 
-- **Timestamp:** 18 November 2025  
-- **Publication Medium:** GitHub repository (England jurisdiction)  
-- **Declarant Signature:**  
-  *Yetzirah Mihael Litzow Díaz*  
-  *(Yetzyow)*
+1. **Academic Ludologist**  
+   - Research, teaching, and publication in the field of ludology.  
+   - Printed and digital works authored under **Yetzyow**.  
+
+2. **Videogame Developer**  
+   - Creation of original videogames, engines, and immersive experiences.  
+   - Trademark applied to all published works and software.  
+
+3. **Gamer**  
+   - Competitive and non‑competitive participation in RPG/MMO and other genres.  
+   - Representation under the **Yetzyow** identity in tournaments and communities.  
+
+4. **Content Creator**  
+   - Streaming, video production, and social media presence across platforms:  
+     - YouTube, Instagram, Threads, Twitter, TikTok, Twitch, and future platforms.  
+   - Events, collaborations, and multimedia projects branded as **Yetzyow**.  
 
 ---
 
-## Notes
+## Printed Publications
 
-This declaration is intended as a **public timestamp** and **evidence of intent**.  
-Formal registration with the **UK Intellectual Property Office (UKIPO)** is recommended for enforceable protection.
+All academic, creative, and ludological printed publications authored under the name **Yetzyow** are hereby declared as part of the trademark identity. This includes books, articles, journals, and conference proceedings published in the United Kingdom and internationally.
+
+---
+
+## Statement of Intent
+
+This declaration is timestamped and published in this repository to serve as a public record of intent and lifelong commitment. It establishes **Yetzyow** as a protected identity across academic, creative, and entertainment domains, ensuring recognition and continuity for future generations.
+
+---
+
+**Signed:**  
+Yetzirah Mihael Litzow Díaz  
+(Trademark Identity: Yetzyow)  
+**Date:** 2025-11-19
