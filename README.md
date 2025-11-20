@@ -1,42 +1,52 @@
-# Timestamp Trademark Declaration (United Kingdom)
+# Trademark Declaration (Timestamp – United Kingdom)
 
 **Legal Name:** Yetirah Mihael Litzow Díaz  
-**Trademark Name:** Yetzyow  
+**Author Name / Mark:** Yetzyow  
 **Jurisdiction:** United Kingdom  
 
 ---
 
-## Declaration
+## Declaration of Commitment
 
-I, Yetirah Mihael Litzow Díaz, under the trademark name **Yetzyow**, hereby declare and timestamp my commitment to act as a **Ludologist** dedicated to the creation and development of interactive digital platforms within the United Kingdom.  
+I, **Yetirah Mihael Litzow Díaz**, under the authorial identity **Yetzyow**, hereby declare my commitment as a **Ludologist** to the creation and development of interactive digital platforms dedicated exclusively to the United Kingdom.  
 
-These platforms shall include:  
+These platforms shall:  
+- Provide a comprehensive digital distribution environment for video games, enabling users to purchase, download, and manage interactive entertainment titles.  
+- Incorporate integrated community features such as user profiles, friend networks, live chat, and collaborative development spaces.  
+- Offer a multimedia environment where creators may upload, share, and stream video content, including tutorials, reviews, and creative works, with interactive feedback systems such as comments, likes, and subscriptions.  
+- Establish academic partnerships with universities in the United Kingdom, including **Staffordshire University**, to advance research and practice in gaming and ludology.  
+- Function as competitive ranking systems for **exclusive eSports titles developed solely for the United Kingdom**, ensuring structured ladders, leaderboards, and tournament participation.  
+- Encourage collaboration among developers, video creators, and players, all contributing to a uniquely British ecosystem of games and media.  
 
-- **Video game distribution and engagement platforms** designed to host, distribute, and manage digital games, offering features such as community interaction, multiplayer integration, digital libraries, and secure content delivery systems.  
-- **Video content platforms** designed to enable creators to upload, share, and stream audiovisual content, with features including user channels, subscription models, interactive comments, and educational integration.  
-
-I further declare that these platforms will be **exclusively dedicated to the United Kingdom**, and will be **associated with academic institutions such as Staffordshire University** in the field of gaming. I commit to actively participating in these initiatives alongside other developers and creators, ensuring that games and videos are produced and distributed solely for the United Kingdom market.  
+As **Yetzyow**, I further commit to authoring **academic papers in the field of Ludology**, contributing to scholarly discourse within institutions such as Staffordshire University.  
 
 ---
 
 ## Trademarking Clauses
 
-- ™ **Yetzyow** is hereby claimed as a trademark under UK jurisdiction.  
-- All rights reserved to **Yetirah Mihael Litzow Díaz** as the legal owner of the trademark.  
-- Unauthorized use, reproduction, or misrepresentation of the trademark **Yetzyow** in any jurisdiction is strictly prohibited.  
-- This declaration serves as a timestamped record of intent and ownership, enforceable under UK intellectual property law.  
-- © Yetzyow, United Kingdom, 2025.  
+- **Trademark Ownership:** The name **Yetzyow** is declared as the authorial and creative mark of Yetirah Mihael Litzow Díaz.  
+- **Scope of Use:** The mark applies to digital gaming platforms, multimedia content systems, academic publications, printed publications, and eSports ranking services within the United Kingdom.  
+- **Exclusivity:** All platforms, games, and media developed under this declaration shall bear distinct names other than “Yetzyow,” while the authorial identity remains protected as a trademark.  
+- **Academic Association:** The mark extends to scholarly works authored under the identity **Yetzyow** in the field of Ludology.  
+- **Legal Protection:** This declaration is timestamped for GitHub publication and asserts trademark rights under UK law, including but not limited to:  
+  - **UK Trade Marks Act 1994**  
+  - **Intellectual Property Office (IPO) Regulations**  
+  - **Common law rights of passing off**  
 
 ---
 
-## Trademark Classes (Nice Classification)
+## Trademark Classes (Nice Classification – UK IPO)
 
-The trademark **Yetzyow** is declared under the following classes:  
+The mark **Yetzyow** is hereby declared under the following classes of goods and services:
 
-- **Class 9**: Computer software, video games, downloadable digital content, interactive entertainment platforms.  
-- **Class 16**: Printed publications, magazines, journals, manuals, and printed instructional materials related to gaming and audiovisual content.  
-- **Class 38**: Telecommunications services, streaming platforms, video sharing services, online community interaction.  
-- **Class 41**: Education, training, entertainment services, including gaming events, video production, and academic collaboration.  
-- **Class 42**: Software development, design of digital platforms, hosting services, technological consultancy in gaming and audiovisual content.  
+- **Class 9:** Computer software, video games, downloadable digital content, interactive entertainment platforms.  
+- **Class 16:** Printed publications, books, journals, magazines, academic papers, manuals, and educational materials.  
+- **Class 38:** Telecommunications services, online forums, streaming and broadcasting of multimedia content.  
+- **Class 41:** Education, training, academic publications, eSports competitions, entertainment services related to gaming.  
+- **Class 42:** Software development, design and maintenance of digital platforms, research in ludology and interactive media.  
 
 ---
+
+**Timestamp:** [Insert GitHub commit timestamp automatically upon publication]  
+**Signed:** Yetirah Mihael Litzow Díaz (Yetzyow)  
+**Jurisdiction:** United Kingdom  
