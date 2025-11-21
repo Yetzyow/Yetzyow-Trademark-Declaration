@@ -1,13 +1,13 @@
 # Trademark Declaration: Yetzyow  
-**Jurisdictions:** United States  
+**Jurisdictions:** United Kingdom  
 **Legal Name:** Yetzirah Mihael Litzow Díaz  
 **Brand Identity:** Yetzyow  
-**Timestamp (U.S. CST):** 2025-11-19T15:10:00 CST  
+**Timestamp (UK GMT):** 2025-11-19T21:10:00 GMT  
 
 ---
 
 ## Declaration of Lifelong Commitment  
-I, **Yetzirah Mihael Litzow Díaz**, hereby declare and timestamp my lifelong dedication to the creative, academic, and professional pursuit of videogames and related creative domains under the trademark identity **Yetzyow**. This declaration is made for the purpose of establishing continuity, recognition, and protection of the Yetzyow brand in the **United States**, including the use of U.S. platforms for creative, academic, and entertainment purposes.  
+I, **Yetzirah Mihael Litzow Díaz**, hereby declare and timestamp my lifelong dedication to the creative, academic, and professional pursuit of videogames and related creative domains under the trademark identity **Yetzyow**. This declaration is made for the purpose of establishing continuity, recognition, and protection of the Yetzyow brand in the United Kingdom, including the use of UK platforms for creative, academic, and entertainment purposes.  
 
 ---
 
@@ -22,39 +22,37 @@ I, **Yetzirah Mihael Litzow Díaz**, hereby declare and timestamp my lifelong de
 ## Lifelong Roles & Commitments  
 
 ### Academic Ludologist  
-- Research, teaching, and publication in the field of ludology in the USA.  
+- Research, teaching, and publication in the field of ludology in the UK.  
 - Printed and digital works authored under Yetzyow.  
 
 ### Videogame Developer  
-- Creation of original videogames, engines, and immersive experiences in the USA.  
+- Creation of original videogames, engines, and immersive experiences in the UK.  
 - Trademark applied to all published works and software.  
 
 ### Gamer  
 - Competitive and non‑competitive participation in RPG/MMO and other genres.  
-- Representation under the Yetzyow identity in tournaments and communities in the USA.  
+- Representation under the Yetzyow identity in tournaments and communities in the UK.  
 
 ### Content Creator  
 - Streaming, video production.  
-- Events, collaborations, and multimedia projects in the USA branded as Yetzyow.  
+- Events, collaborations, and multimedia projects in the UK branded as Yetzyow.  
 
 ### Music & Filming  
 - **Music:** Composition, performance, and production of music videos under the Yetzyow identity.  
 - **Filming:** Acting always as the character Yetzyow with a defined personality.  
 - Scriptwriting, directing, and producing audiovisual works branded as Yetzyow.  
 
----
-
-## Printed Publications  
-All academic, creative, ludological, musical, and cinematic printed publications authored under the name **Yetzyow** are hereby declared as part of the trademark identity. This includes books, articles, journals, scores, scripts, and conference proceedings published in the **United States**.  
+### Printed Publications  
+All academic, creative, ludological, musical, and cinematic printed publications authored under the name **Yetzyow** are hereby declared as part of the trademark identity. This includes books, articles, journals, scores, scripts, and conference proceedings published in the United Kingdom.  
 
 ---
 
 ## Statement of Intent  
-This declaration is timestamped and published in this repository to serve as a public record of intent and lifelong commitment. It establishes **Yetzyow** as a protected identity across academic, creative, entertainment, musical, and cinematic domains in the **United States**, ensuring recognition and continuity for future generations.  
+This declaration is timestamped and published in this repository to serve as a public record of intent and lifelong commitment. It establishes **Yetzyow** as a protected identity across academic, creative, entertainment, musical, and cinematic domains in the United Kingdom, ensuring recognition and continuity for future generations.  
 
 ---
 
 **Signed:**  
 Yetzirah Mihael Litzow Díaz  
-(Trademark Identity: Yetzyow)  
-**Date (U.S. CST):** 2025-11-19  
+*(Trademark Identity: Yetzyow)*  
+**Date (UK GMT):** 2025-11-19  
