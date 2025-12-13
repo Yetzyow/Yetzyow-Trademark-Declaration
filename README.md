@@ -1,99 +1,51 @@
-# 🕒 Trademark Timestamp Declaration — Yetzyow
-### Public Timestamp Record for Trademark Intent and Use  
-**Legal Name:** Yetzirah Mihael Litzow Díaz  
-**Brand / Alias / Mark:** **Yetzyow**  
-**Declaration Date:** December 11th, 2025  
-**This document is published as a public, verifiable timestamp of authorship and first use.**
+# Trademark Declaration for Yetzyow
+
+**Timestamp:** December 12, 2025  
+**Jurisdictions:** United Kingdom, United States of America, Mexico, Spain  
+**Legal Owner:** Yetzirah Mihael Litzow Díaz  
+**Mark Name:** Yetzyow  
 
 ---
 
-# 1. Purpose of This Declaration
-This declaration serves as a **public record of first use and intent to use** the brand **Yetzyow** in professional and creative activities related to:
+## Declaration
 
-- **Video Game Design**  
-- **Gamer / Gaming Entertainment Activities**  
-- **Ludology (Game Studies / Game Design Theory)**
+This document serves as a formal declaration of trademark intent and usage for the brand **Yetzyow**, owned by **Yetzirah Mihael Litzow Díaz**, across the territories of the **United Kingdom**, the **United States of America**, **Mexico**, and **Spain**.  
 
-Publishing this declaration on GitHub creates a **permanent, time-stamped commit**, functioning as verifiable evidence of authorship and priority before any formal trademark registrations in applicable jurisdictions.
+The trademark covers the following areas of activity:
 
----
+1. **Academic Ludology**  
+   - Research, academic publications, printed publications, and educational initiatives in the field of ludology (game studies).  
 
-# 2. Holder Information
-**Full Legal Name:**  
-**Yetzirah Mihael Litzow Díaz**
+2. **Video Game Development and Technological Innovation in VR/AI/CG/IT**  
+   - Design, programming, and commercialization of video games.  
+   - Innovation in Virtual Reality (VR), Artificial Intelligence (AI), Computer Graphics (CG), and Information Technology (IT).  
 
-**Public Name / Brand / Alias:**  
-**Yetzyow**
+3. **eSports and Non-Competitive Gaming**  
+   - Organization, promotion, and participation in electronic sports (eSports).  
+   - Community engagement in casual and non-competitive gaming environments.  
 
-**Territories in which use or intent of use is declared:**  
-- **Mexico**  
-- **Spain**  
-- **United Kingdom**  
-- **United States of America**
+4. **Gaming Content Creation and Community Participation**  
+   - Production and distribution of gaming-related content (video, audio, streaming, written, printed publications).  
+   - Active involvement in gaming communities, forums, and events.  
 
 ---
 
-# 3. Professional Scope of the “Yetzyow” Trademark
-The brand **Yetzyow** is declared for use in the following professional areas, mapped to equivalent **Nice Classification** trademark classes (international standard), without exaggeration or unnecessary breadth.
+## Trademark Classes
 
-## 3.1 Relevant Trademark Classes (Nice Classification)
-- **Class 41 – Entertainment and digital media services:**  
-  - Gaming activity, streaming, audiovisual content  
-  - Participation in esports, gaming events, or competitions  
-  - Digital entertainment and multimedia production  
+The trademark **Yetzyow** is declared under the following international trademark classes (Nice Classification):
 
-- **Class 42 – Software and video game design services:**  
-  - Video game design, development, and conceptualization  
-  - Game systems design, narrative and mechanic prototyping  
-  - Research in ludology, game studies, and interactive systems  
-
-- **Class 9 – Software, digital products, and downloadable content:**  
-  - Video games published under the Yetzyow name  
-  - Interactive software and gaming tools  
-  - Digital educational and analytical materials related to game design  
+- **Class 9**: Software, video games, VR/AR applications, AI-based systems, computer graphics tools.  
+- **Class 16**: Printed publications, books, magazines, journals, and other printed matter related to gaming, ludology, and technology.  
+- **Class 41**: Education, training, entertainment services, eSports events, gaming content creation.  
+- **Class 42**: Scientific and technological services, software development, IT innovation, VR/AI/CG research.  
+- **Class 35**: Business management, promotion, and organization of gaming events and community activities.  
 
 ---
 
-# 4. Territories of Use and Intent
+## Statement of Rights
 
-### 4.1 Mexico  
-Declaration of use and intent to use the **Yetzyow** mark in video game design, digital entertainment, and ludology.
-
-### 4.2 Spain  
-Declaration of use and intent to use the mark in game creation, gaming entertainment, and game studies.
-
-### 4.3 United Kingdom  
-Timestamp declaration for the use of the **Yetzyow** mark in video game development, gaming content, and interactive design/ludology.
-
-### 4.4 United States of America  
-Declaration of use and bona fide intent to use the **Yetzyow** mark within software development, gaming entertainment, and ludology, aligning with USPTO requirements for legitimate intent to use.
+The owner, **Yetzirah Mihael Litzow Díaz**, asserts exclusive rights to the use of the trademark **Yetzyow** in the specified jurisdictions and under the listed classes. Unauthorized use, reproduction, or misrepresentation of the mark in the covered fields is strictly prohibited.
 
 ---
 
-# 5. Priority of Use Statement
-I declare that I am the **original creator**, **first user**, and **rightful holder** of the brand **Yetzyow** in the professional fields defined above.  
-This document serves as timestamped evidence of prior use before any formal filings with:
-
-- IMPI (Mexico)  
-- OEPM (Spain)  
-- UK IPO (United Kingdom)  
-- USPTO (United States of America)  
-
----
-
-# 6. Final Holder Declaration
-I, **Yetzirah Mihael Litzow Díaz**, affirm that:
-
-1. The brand **Yetzyow** has been used, or is intended for bona fide use, in video game design, gaming entertainment, and ludology.  
-2. This GitHub publication acts as a **public, verifiable timestamp**, certifying authorship and priority as of the declaration date.  
-3. Rights to the uses and scopes listed in this document are reserved to the brand holder.  
-
-**Digitally signed through GitHub publication:**  
-**Yetzirah Mihael Litzow Díaz**  
-**“Yetzyow”**
-
----
-
-# 7. Legal Note
-This document **does not substitute an official trademark registration**, but it serves as a date-stamped public record of authorship, intention, and prior use (prior art / first-use evidence) through GitHub’s immutable commit history.
-
+© 2025 Yetzirah Mihael Litzow Díaz. All rights reserved.
