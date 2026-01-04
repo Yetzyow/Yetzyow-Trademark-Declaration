@@ -1,0 +1,1 @@
+# Yetzyow-Trademark-Declaration
